@@ -3,4 +3,4 @@ krypto
 
 Vores SUM projekt
 
-Kenneth, Martin, Harald og Jeppe
+Kenneth, Martin, Harald, Jeppe & Schjermer
